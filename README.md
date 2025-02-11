@@ -1,5 +1,4 @@
-# Artificial Metabolic Network repository
+This codebase shows implementation of a hybrid neural mechanistic model for V.Natriegens. The original model framework was published for E.coli by Faure et al.
 
-## Forked from brsynth/amn-release
-
-### See Vibrio_modeling.ipynb for code adaptation to Vibrio natriegens genome-scale model and prediction on sampled fluxes
+REFERENCE:
+Faure, Léon, et al. "A neural-mechanistic hybrid approach improving the predictive power of genome-scale metabolic models." Nature Communications 14.1 (2023): 4669.
