@@ -1,0 +1,21 @@
+# files
+*.ipynb
+*.yml
+*.yaml
+
+#Folders
+Dataset_experimental/
+Dataset_input/
+Dataset_model/
+Figures/
+Library/
+Reservoir/
+Result/
+
+# VSCode files
+.vscode/
+.vscode-test/
+# Python
+__pycache__/
+*.py[cod]
+
