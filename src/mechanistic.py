@@ -1,5 +1,5 @@
 from Library.Build_Model import *
-from vibrio_modeling import pretty_print_section
+from src.vibrio_modeling import pretty_print_section
 
 # Step 4: Model Training & Evaluation
 pretty_print_section("MECHANISTIC MODEL TRAINING & EVALUATION")

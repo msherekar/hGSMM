@@ -301,8 +301,5 @@ def main():
     print("=" * 80 + Style.RESET_ALL)
 
     
-
-
-
 if __name__ == '__main__':
     main()
